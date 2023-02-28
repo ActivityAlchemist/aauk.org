@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Our Activities on Activity Alchemist</title>
-    <link>https://aauk.org/activities/</link>
+    <link>https://activityalchemist.github.io/aauk.org/activities/</link>
     <description>Recent content in Our Activities on Activity Alchemist</description>
     <image>
       <title>Activity Alchemist</title>
-      <url>https://aauk.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://aauk.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://activityalchemist.github.io/aauk.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://activityalchemist.github.io/aauk.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aauk.org/activities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://activityalchemist.github.io/aauk.org/activities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>February Birthday Party</title>
-      <link>https://aauk.org/activities/birthday/230225/</link>
+      <link>https://activityalchemist.github.io/aauk.org/activities/birthday/230225/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aauk.org/activities/birthday/230225/</guid>
+      <guid>https://activityalchemist.github.io/aauk.org/activities/birthday/230225/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum dui faucibus in ornare. Pulvinar mattis nunc sed blandit libero volutpat sed. Eros donec ac odio tempor. Bibendum neque egestas congue quisque egestas diam in arcu. Felis eget velit aliquet sagittis id consectetur. Odio tempor orci dapibus ultrices. Tortor aliquam nulla facilisi cras fermentum. Orci porta non pulvinar neque laoreet suspendisse interdum.</description>
     </item>
     
     <item>
       <title>Badminton</title>
-      <link>https://aauk.org/activities/badminton/230222/</link>
+      <link>https://activityalchemist.github.io/aauk.org/activities/badminton/230222/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aauk.org/activities/badminton/230222/</guid>
+      <guid>https://activityalchemist.github.io/aauk.org/activities/badminton/230222/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum dui faucibus in ornare. Pulvinar mattis nunc sed blandit libero volutpat sed. Eros donec ac odio tempor. Bibendum neque egestas congue quisque egestas diam in arcu. Felis eget velit aliquet sagittis id consectetur. Odio tempor orci dapibus ultrices. Tortor aliquam nulla facilisi cras fermentum. Orci porta non pulvinar neque laoreet suspendisse interdum.</description>
     </item>
     
